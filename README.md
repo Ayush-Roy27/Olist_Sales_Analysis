@@ -258,17 +258,14 @@ limit 10;
 The analysis results are summarized as follows:
 
  1. Total revenue is R$13.22M
- 2. .
+ 2. Revenue have been increasing over the past 12 months.
  3. Average order value is R$137.04.
- 4. .
+ 4. Average order value have decreased very slight over the past 12 months.
  5. 92% of orders are delivered on time.
- 6. .
+ 6. Percentage of orders delivered on time have increased very slightly over the past 12 months.
  7. The average rating for any given product is 4 stars out of 5.
- 8. .
+ 8. Average rating for any given product have been increasing over the past 12 months.
  9. Sao Paolo, Rio de Janeiro, Minas Gerais, Parana, Rio Grande do Sul, are the top 5 states in terms of revenue.
 10. Health & Beauty, Watches & Gifts, Bed & Bath & Table, Sports & Leisure, Computer Accessories are the top 5 product categories in terms of revenue.
 11. 0a0a92112bd4c708ca5fde585afaa872, 763c8b1c9c68a0229c42c9fc6f662b93, 459bef486812aa25204be022145caa62, 4007669dec559734d6f53e029e360987, 48e1ac109decbb87765a3eade6854098, a229eba70ec1c2abef51f04987deb7a5,
     edde2314c6c30e864a128ac95d6b2112, fa562ef24d41361e476e748681810e1e, c8460e4251689ba205045f3ea17884a1 and ca27f3dac28fb1063faddd424c9d95fa are the unique ids of the top 10 customers in terms of revenue.
-
-### Recommendations
-
